@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
-import { Route, Switch } from 'react-router-dom';
 import './App.css';
 
-import StartPage from './Panels/StartPage';
 import Page from './Panels/Page';
 import Result from './Panels/Result'
 
@@ -41,7 +39,6 @@ const App: React.FunctionComponent<AppProps> = ({weights}) => {
 
   const setWeight = (index: number, anwser: boolean): void => {
 
-
     for (var i = 0; i < weights.length; ++i) {
       if (awnser[i][index] === anwser) weights[i] = weights[i] + questionsWeith[index];
     }
@@ -55,7 +52,8 @@ const App: React.FunctionComponent<AppProps> = ({weights}) => {
   return (
     <div className="App">
       {!startApp && <div className="Welcome">
-        <a>Welcome, Click to find Washer</a>
+        {/* <a>Welcome, Click to find Washer</a> */}
+        <a>Добро пожаловать, начать подбор стиральной машыны</a>
         <button onClick={setStartApp.bind(null, true)} >Start</button>
       </div>
       }
