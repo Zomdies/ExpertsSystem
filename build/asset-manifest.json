@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ExpertsSystem/static/css/main.6837f93e.chunk.css",
+    "main.js": "/ExpertsSystem/static/js/main.d0bb1f9c.chunk.js",
+    "main.js.map": "/ExpertsSystem/static/js/main.d0bb1f9c.chunk.js.map",
+    "runtime-main.js": "/ExpertsSystem/static/js/runtime-main.f93f82a0.js",
+    "runtime-main.js.map": "/ExpertsSystem/static/js/runtime-main.f93f82a0.js.map",
+    "static/js/2.de25216e.chunk.js": "/ExpertsSystem/static/js/2.de25216e.chunk.js",
+    "static/js/2.de25216e.chunk.js.map": "/ExpertsSystem/static/js/2.de25216e.chunk.js.map",
+    "index.html": "/ExpertsSystem/index.html",
+    "precache-manifest.4d45b919914cb0fe7c715ea860f0425a.js": "/ExpertsSystem/precache-manifest.4d45b919914cb0fe7c715ea860f0425a.js",
+    "service-worker.js": "/ExpertsSystem/service-worker.js",
+    "static/css/main.6837f93e.chunk.css.map": "/ExpertsSystem/static/css/main.6837f93e.chunk.css.map",
+    "static/js/2.de25216e.chunk.js.LICENSE.txt": "/ExpertsSystem/static/js/2.de25216e.chunk.js.LICENSE.txt",
+    "static/media/BirusaWM-ME610_04.jpg": "/ExpertsSystem/static/media/BirusaWM-ME610_04.9b78fb6a.jpg",
+    "static/media/CANDY DCS4 1051D1_2-07.jpg": "/ExpertsSystem/static/media/CANDY DCS4 1051D1_2-07.9123a06f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f93f82a0.js",
+    "static/js/2.de25216e.chunk.js",
+    "static/css/main.6837f93e.chunk.css",
+    "static/js/main.d0bb1f9c.chunk.js"
+  ]
+}
